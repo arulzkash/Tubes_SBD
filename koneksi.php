@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$database = "db_tes";
+$database = "db_quintessence";
 $username = "root";
 $password = "";
 
